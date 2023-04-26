@@ -1,0 +1,6 @@
+/node_modules
+/mongodbpassword.txt
+
+/config/config.env
+# /.gitignore
+# /frontend .gitignore
